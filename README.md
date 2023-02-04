@@ -1,5 +1,7 @@
+#DESCRIPTION:
+This webpage is about the BYU London Centre Summer 2023 Study Abroad. It goes over where we will be going. The about page shows the history of the London Centre and the Contact page will give informaiton on program directors. 
 # Responsive images and SVG images
-DESCRIPTION: This webpage is about the BYU London Centre Summer 2023 Study Abroad. It goes over where we will be going. The about page shows the history of the London Centre and the Contact page will give informaiton on program directors. 
+
 Learn how to do the following:
 
 - Use the `<picture>` element to create a responsive image with art direction.
